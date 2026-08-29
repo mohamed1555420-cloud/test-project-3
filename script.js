@@ -8,3 +8,7 @@ console.log(z);
 
 console.log(x+y+z);
 const c = 20;
+console.log(x + y + z);
+
+const a = 40;
+console.log(a);
