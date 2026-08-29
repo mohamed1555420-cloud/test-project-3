@@ -3,3 +3,5 @@ console.log(x);
  let y = 20;
 
 console.log(y);
+let z = 30;
+console.log(z);
